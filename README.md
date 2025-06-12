@@ -1,4 +1,4 @@
-<h1 align="center">Heyy, I'm Palak</h1>
+<h1 align="center">Heyy, I'm Palak.</h1>
 <h3 align="center">A passionate Computer Science student with a knack for problem-solving and innovation. Currently pursuing my B.Tech degree, I have hands-on experience in Python, SQL, and data analytics tools like Tableau. I thrive on challenges that push my boundaries and am eager to contribute to projects that blend technology with creativity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palak1505&label=Profile%20views&color=0e75b6&style=flat" alt="palak1505" /> </p>
